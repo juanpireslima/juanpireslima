@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Juan P. Lima
+A Back End Developer from Brazil.
 
-<!--
-**juanpireslima/juanpireslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Back-End: NodeJS, NestJS, TypeScript, JavaScript
+- Frontend: HTML5, CSS, JavaScript, Angular
+- Mobile: Ionic
+- SQL/Databases: Postgres, MySQL, MongoDB
+- Cloud: AWS
+- NoCode: Bubble
 
-Here are some ideas to get you started:
+## Other:
+- Experience with payment providers such as Stripe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social:
+- Linkedin: https://www.linkedin.com/in/juanpireslima/
+- Medium: https://medium.com/@juanpireslima
+- Dev: https://dev.to/juanpireslima
