@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Juan P. Lima
-A Back End Developer from Brazil.
+A Software Developer from Brazil.
 
 ## Skills
 - Back-End: NodeJS, NestJS, TypeScript, JavaScript
