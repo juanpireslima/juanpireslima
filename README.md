@@ -13,6 +13,7 @@ A Software Developer from Brazil.
 - Experience with payment providers such as Stripe
 
 ## Social:
-- Linkedin: https://www.linkedin.com/in/juanpireslima/
+- My website: http://juanpireslima.com
+- Linkedin: https://www.linkedin.com/in/juanpireslima
 - Medium: https://medium.com/@juanpireslima
 - Dev: https://dev.to/juanpireslima
